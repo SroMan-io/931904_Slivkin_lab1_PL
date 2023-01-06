@@ -1,8 +1,10 @@
 # 931904_Slivkin_lab1_PL
 
-Для запуска на исполнение в командной строке ввести: python downloader.py <URL для скачивания>
+###Для запуска на исполнение в командной строке ввести:
 
-Набор ссылок на файлы:
+python downloader.py <URL для скачивания>
+
+###Набор ссылок на файлы:
 
 https://tolstoy.ru/upload/iblock/b22/voina-i-mir.docx
 
